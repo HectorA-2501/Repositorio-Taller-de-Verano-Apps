@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">VeranoApp</string>
+    <string-array name="array_spinner">
+        <item>Masculino</item>
+        <item>Femenino</item>
+        <item>Otro</item>
+        <item>Motor de lancha</item>
+        <item>Extraterrestre</item>
+        <item>El Arturo</item>
+
+
+
+
+
+
+
+    </string-array>
+</resources>
